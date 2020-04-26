@@ -1,0 +1,28 @@
+    <div class="lesson-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Publikasi Penting Seputar Covid-19 di Jakarta</h2>
+          <h3>Infografik</h3>
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="img/infografik 1.jpeg">
+            <p></p>
+            <p class="txt-contents">Poin Penting Penerimaan Bantuan Sosial Selama PSBB di DKI Jakarta</p>
+          </div>
+          
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="img/infografik 2.jpeg">
+            <p></p>
+            <p class="txt-contents">Cari Tahu Informasi dan Edukasi COVID-19</p>
+          </div>
+          
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="img/infografik 3.jpeg">
+            <p></p>
+            <p class="txt-contents">Laporkan Jika Masih Bekerja Selain di 11 Sektor yang Dikecualikan</p>
+          </div>
